@@ -1,6 +1,6 @@
 # Linear and Differential Attacks
 
-A **simple** java programming exercise using linear and Differential cryptanalysis to attack symmetric-key block ciphers with four different S-boxes.
+A **simple** Java programming exercise using linear and Differential cryptanalysis to attack symmetric-key block ciphers with four different S-boxes.
 
 
 | ![](/images/structure_a.png) | ![](/images/structure_b.png) |
